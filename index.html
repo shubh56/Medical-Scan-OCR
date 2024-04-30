@@ -1,0 +1,59 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF to Text Extractor</title>
+</head>
+<body>
+    <h1>PDF to Text Extractor</h1>
+    <form method="POST" enctype="multipart/form-data" action="http://127.0.0.1:5000/extract_from_pdf">
+        <label for="pdf_file">Choose a PDF file:</label>
+        <input type="file" name="pdf_file" id="pdf_file" accept=".pdf" required>
+        <button type="submit">Extract Text</button>
+    </form>
+</body>
+</html> -->
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF File Upload</title>
+</head>
+<body>
+    <h1>Upload PDF File</h1>
+    <form method="POST" enctype="multipart/form-data" action="http://127.0.0.1:5000/extract_text">
+        <label for="pdf_file">Choose a PDF file:</label>
+        <input type="file" name="pdf_file" id="pdf_file" accept=".pdf" required>
+        <input type="submit" value="Upload File">
+    </form>
+</body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flask Test</title>
+  </head>
+  <body>
+    <h1>Flask Test</h1>
+    <form method="POST" enctype="multipart/form-data" action="http://127.0.0.1:5000/extract_text">
+        <label for="pdf_file">Choose a PDF file:</label>
+        <input type="file" name="pdf_file" id="pdf_file" accept=".pdf" required>
+        <input type="submit" value="Upload File">
+    </form>
+    <form action="http://127.0.0.1:5000/ask" method="GET">
+      <label for="question">Enter your question:</label>
+      <input type="text" id="question" name="question" required />
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>

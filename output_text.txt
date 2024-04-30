@@ -1,0 +1,52 @@
+TEST REPORT
+Report Type : Final
+Name : JASBIR KAUR Reg. No : 201202328
+Age/Sex : Female / 57 Years Reg. Date : 18-Jan-2022 03:28 PM
+Ref. By : Collected On : 18-Jan-2022 03:28 PM
+Client Name : Report Date : 18-Jan-2022 07:00 PM
+Test Result Unit Biological Ref. Interval
+Qualitative test of COVID - 19 RNA by Real Time PCR
+SPECIMEN Nasopharyngeal and Oropharyngeal swab in VTM
+METHOD Qualitative test of COVID - 19 RNA by Real Time PCR (RT PCR)
+SAMPLE CONDITION ACCEPTABLE
+RdRp (CT VALUE) DETECTED = 23
+E Gene (CT VALUE) DETECTED =22
+RESULT (COVID 19) POSITIVE
+ICMR REGISTRATION ID: 100944045
+Principle : This Covid 19 Assay uses RNA extracted from clinical samples, such as Sputum,Bronchoalveolar lavage fluid and Oropharyngeal,
+Nasopharyngeal swab using the RNA extracted. The specific target of this assay are RdRp/ N gene and E gene.
+Real Time Reverse Transcription Polymerase Chain Reaction (Real Time RT-PCR) is the gold standard test for detection of SARS-CoV-2
+Result and Interpretation: Cutoff of Cycle threshold value or Ct value for RdRp/N gene and E gene is interpreted as per the manufacturers kit insert is
+interpreted as SARS-CoV-2 Positive.
+Limitations:
+a. The results of this test are highly dependent on the sampling technique and maintenance of cold-chain during sample transport
+b. False Negative result can occur if there is any one of the following
+i) Presence of PCR inhibitors in the sample
+ii) Specimen collected very early or late in infection
+iii) Viral load below the lower limit of detection of the PCR assay
+iv) Presence of rare genotypes or mutations
+c. False-positive result may occur if there is possibility of background RNA contamination from pre analytical or iatrogenic environmental causes.
+d. RT-PCR kits used for this assay are approved by ICMR and are CE and IVD approvede. .
+i) Reports will be provided to the treating physician, who is requested to communicate the same to the patient and follow MOHFW policy for
+isolation,quarantine and treatment of all positive cases along with contact tracing as recommended
+ii) The repeat specimens may be considered after a gap of 2-4 days after the collection of the first specimen for additional testing if required
+It is important to note that the presence of RNA does not always correlate with infectiousness, as the presence of nucleic acid does not always indicate live
+virus.
+AS PER ICMR ADVISORY (05/08/2020)
+There are no reliable studies to definitively prove a direct correlation between disease severity / infectiousness and Ct values.
+Viral load does not have much role in patient management. Ct values differ from one kit to the other. Comparability of Ct values among different kits is a
+challenge as different labs are using a mixed basket of kits now with different Ct cut-offs and different gene targets. Samples from asymptomatic/mild cases
+show Ct values similar to those who develop severe disease. Patients in early symptomatic stage may show a high Ct value which may subsequently
+change. eSeverity of COVID-19 disease largely depends on host factors besides the viral load.
+Some patients with low viral load may land up in very severe disease due to triggering of the immunological responses.
+RT-PCR test presently being conducted is qualitative in nature. Ct values may give a rough estimate of viral load. However, more specialized standards are
+required for quantitative assays which are currently unavailable for SARS-CoV-2.
+------------------ End Of Report ------------------
+This is an Electronically Authenticated Report.
+Page 1 of 1
+DR.DHYANESH DESAI
+MD (Micro)
+Reg No : 50519
+elameF-sraeY
+75-RUAK
+RIBSAJ-823202102
